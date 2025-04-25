@@ -1,5 +1,7 @@
 ctrl + alt + T  this shortcut will open the terminal
 
+sudo apt install git
+
 mkdir os 
 
 use cd os to navigate into the os folder
